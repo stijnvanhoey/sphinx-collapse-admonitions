@@ -1,7 +1,7 @@
 """A small sphinx extension to add "copy" buttons to code blocks."""
 import os
 
-__version__ = "0.0.1"
+__version__ = "0.0.2dev0"
 
 
 def scb_static_path(app):
